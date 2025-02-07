@@ -1,4 +1,4 @@
-# TNNLS24_Deep-Multi-view-Clustering-PGCL-DCL
+# TNNLS25_Deep-Multi-view-Clustering-PGCL-DCL
 
 The code and dataset are about the paper "Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning", and all the details are in the ZIP file.
 
